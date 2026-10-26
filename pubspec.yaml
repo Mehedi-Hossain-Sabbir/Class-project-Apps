@@ -63,6 +63,8 @@ flutter:
      - assets/appBar_picture/
      - assets/how_it_works_background_image/
      - assets/feature_listing/
+     - assets/why_choose_us/
+     - assets/share_invite_image/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
